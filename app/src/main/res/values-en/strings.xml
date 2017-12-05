@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="send">Send</string>
+    <string name="app_name">Send Message</string>
+    <string name="type">Type your text</string>
+    <string name="ReceivedMessage">Received Message</string>
+    <string name="send_for">Send for</string>
+</resources>
